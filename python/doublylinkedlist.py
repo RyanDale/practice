@@ -15,7 +15,7 @@ class DoubleyLinkedList:
 	def deleteNode(node):
 		n = head
 
-		while if not n.prev == node.prev and not n.data = node.data and not n.next = node.next:
+		while not n.prev == node.prev and not n.data = node.data and not n.next = node.next:
 			n = n.next
 		
 		n.next.prev = n.prev
