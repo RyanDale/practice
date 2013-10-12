@@ -2,7 +2,7 @@
 import os
 import sys
 
-sys.path.append('/data/practice')
+sys.path.append('/data/practice/')
 
 
 if __name__ == "__main__":
